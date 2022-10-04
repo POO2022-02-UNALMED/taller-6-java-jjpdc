@@ -26,6 +26,4 @@ public class Automovil extends Vehiculo{
         return autos;
     }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
+
